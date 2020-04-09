@@ -1,0 +1,4 @@
+JMH S 17 jmh.BenchmarkLoop S 48 jmh.generated.BenchmarkLoop_loopIterator_jmhTest S 12 loopIterator S 11 AverageTime E A 1 1 1 E E E E E E E I 1 2 E E L 2 6 -Xms2G 6 -Xmx2G E E M 1 1 N 1 8 10000000 U 12 MILLISECONDS E E 
+JMH S 17 jmh.BenchmarkLoop S 43 jmh.generated.BenchmarkLoop_loopFor_jmhTest S 7 loopFor S 11 AverageTime E A 1 1 1 E E E E E E E I 1 2 E E L 2 6 -Xms2G 6 -Xmx2G E E M 1 1 N 1 8 10000000 U 12 MILLISECONDS E E 
+JMH S 17 jmh.BenchmarkLoop S 45 jmh.generated.BenchmarkLoop_loopWhile_jmhTest S 9 loopWhile S 11 AverageTime E A 1 1 1 E E E E E E E I 1 2 E E L 2 6 -Xms2G 6 -Xmx2G E E M 1 1 N 1 8 10000000 U 12 MILLISECONDS E E 
+JMH S 17 jmh.BenchmarkLoop S 47 jmh.generated.BenchmarkLoop_loopForEach_jmhTest S 11 loopForEach S 11 AverageTime E A 1 1 1 E E E E E E E I 1 2 E E L 2 6 -Xms2G 6 -Xmx2G E E M 1 1 N 1 8 10000000 U 12 MILLISECONDS E E 
